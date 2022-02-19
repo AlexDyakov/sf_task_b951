@@ -1,0 +1,23 @@
+{
+  "name": "task_b951_dyakov",
+  "version": "1.0.0",
+  "description": "Description text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexDyakov/sf_task_b951.git"
+  },
+  "keywords": [
+    "Sample",
+    "task"
+  ],
+  "author": "A.Dyakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexDyakov/sf_task_b951/issues"
+  },
+  "homepage": "https://github.com/AlexDyakov/sf_task_b951#readme"
+}
